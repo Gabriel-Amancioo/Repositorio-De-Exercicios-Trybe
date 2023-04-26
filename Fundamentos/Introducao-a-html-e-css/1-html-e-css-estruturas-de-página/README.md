@@ -1,2 +1,1 @@
-# Este é o conteúdo do primeiro dia de HTML e CSS
-
+# Este é o conteúdo e exercício do primeiro dia de HTML e CSS
