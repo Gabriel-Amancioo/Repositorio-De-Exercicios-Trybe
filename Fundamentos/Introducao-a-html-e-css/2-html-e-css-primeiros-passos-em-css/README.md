@@ -1,1 +1,1 @@
-# meus primeiros passos no css
+# Neste repositório irei resolver e cumprir os requisitos dos exercicios do primeiros passos em css
