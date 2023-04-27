@@ -1,1 +1,1 @@
-# Preparativos para a terceira aula de html e css - seletores e posicionamentos
+# Esta partição servirá para a realização/resolução dos exercícios desta sessão.
