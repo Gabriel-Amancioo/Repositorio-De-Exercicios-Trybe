@@ -1,0 +1,1 @@
+# Nesta partição, será realizada os exercícios de funções.
