@@ -1,0 +1,1 @@
+#Pasta destinada para os exercícios do dia 04 de JavaScript
